@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+tensorflow
+numpy
+pandas
+tldextract
+fuzzywuzzy
+python-Levenshtein
+xgboost
