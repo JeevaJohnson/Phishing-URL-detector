@@ -1,8 +1,8 @@
 streamlit
-scikit-learn==1.2.2
-tensorflow==2.12.0
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.1.3
+tensorflow==2.10.0
 joblib
-pandas
-numpy
 xgboost
 tldextract
